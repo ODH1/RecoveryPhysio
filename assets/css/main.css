@@ -3591,6 +3591,10 @@ input, select, textarea {
 		/*backdrop-filter: blur(10px)*/
 	}
 
+		#banner image {
+		height:5em;
+		}
+
 		#banner h2 {
 			-moz-transform: scale(1);
 			-webkit-transform: scale(1);
@@ -3718,6 +3722,10 @@ input, select, textarea {
 				height: auto;
 				min-height: 0;
 			}
+
+				#banner image{
+					height: 4em;
+				}
 
 				#banner h2 {
 					font-size: 1.25em;

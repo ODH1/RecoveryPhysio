@@ -3588,7 +3588,7 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
-		backdrop-filter: blur(10px)
+		/*backdrop-filter: blur(10px)*/
 	}
 
 		#banner h2 {

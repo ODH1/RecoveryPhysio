@@ -3591,8 +3591,8 @@ input, select, textarea {
 		/*backdrop-filter: blur(10px)*/
 	}
 
-		#banner image {
-		height:5em;
+		#banner .img {
+		height:5em !Important;
 		}
 
 		#banner h2 {
@@ -3723,8 +3723,8 @@ input, select, textarea {
 				min-height: 0;
 			}
 
-				#banner image{
-					height: 4em;
+				#banner .img{
+					height: 4em !important;
 				}
 
 				#banner h2 {

@@ -3352,7 +3352,7 @@ input, select, textarea {
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
 		background: #f2f1e8;
-		color: #ffffff;
+		color: #000000;
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -3404,6 +3404,7 @@ input, select, textarea {
 			background-image: url("images/close.svg");
 			background-position: 4.85em 1em;
 			background-repeat: no-repeat;
+			filter: brightness(0%);
 			border: 0;
 			cursor: pointer;
 			display: block;

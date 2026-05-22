@@ -2672,6 +2672,10 @@ input, select, textarea {
 		color: #000000;
 	}
 
+		.spotlight H2 {
+			color: #000000;
+		}
+
 		.spotlight .image {
 			-moz-order: 1;
 			-webkit-order: 1;

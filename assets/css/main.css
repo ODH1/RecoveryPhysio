@@ -3451,7 +3451,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2A332D;
+		background: #6F7C68;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
@@ -3983,7 +3983,7 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: rgba(42, 51, 45, 0.9);
+		background-color: rgba(111, 124, 104, 0.9);
 	}
 
 	body.is-mobile.landing #page-wrapper {
@@ -4002,5 +4002,5 @@ input, select, textarea {
 	}
 
 	body.is-mobile.landing #footer {
-		background-color: #2A332D;
+		background-color: #6F7C68;
 	}
